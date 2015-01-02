@@ -33,7 +33,7 @@
                 android:drawableLeft="@drawable/login_icon_account"
                 android:drawablePadding="25dip"
                 android:hint="请输入手机号"
-                android:inputType="textEmailAddress"
+                android:inputType="phone|textEmailAddress"
                 android:paddingLeft="25dip"
                 android:textColor="#ff98bede"
                 android:textColorHint="#ffdddddd" />
